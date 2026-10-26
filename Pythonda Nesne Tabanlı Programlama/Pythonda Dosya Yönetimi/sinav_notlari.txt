@@ -1,0 +1,4 @@
+Talha Kalfa:100,100,90
+Çağan Kalfa:90,70,80
+selin oğuz:60,80,90
+ilknur özdemir:100,85,75
